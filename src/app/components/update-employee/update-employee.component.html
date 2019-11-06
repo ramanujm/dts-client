@@ -1,0 +1,36 @@
+<div class="container col-lg-6">
+    <h3>Update Employee</h3>
+    <div class="card">
+        <div class="card-body">
+            <div [hidden]="submitted">
+                <form (ngSubmit)="onSubmit()">
+                    <div class="form-group">
+                        <label for="name">User Name</label>
+                        <input type="text" readonly="readonly" class="form-control" id="userName" required [(ngModel)]="employee.userName" name="userName">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">password</label>
+                        <input type="password" [readOnly]="this.isEditable" class="form-control" id="password" required [(ngModel)]="employee.password" name="password">
+                        <button style="margin-top:5px;" type="button" (click)="handleChangePassword()" class="btn btn-info btn-sm">Change Password</button>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">First Name</label>
+                        <input type="text" class="form-control" id="firstName" required [(ngModel)]="employee.firstName" name="firstName">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="name">Last Name</label>
+                        <input type="text" class="form-control" id="lastName" required [(ngModel)]="employee.lastName" name="lastName">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="name">Email</label>
+                        <input type="text" class="form-control" id="emailId" required [(ngModel)]="employee.email" name="email">
+                    </div>
+
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
