@@ -54,7 +54,6 @@ export class AuthenticationService {
   // }
 
   authenticate(username, password) {
-    console.log(this.username + '...' + this.password);
     if (username === 'ramanujm' && password === 'password') {
       sessionStorage.setItem('username', username);
       return true;
@@ -65,7 +64,7 @@ export class AuthenticationService {
 
   isUserLoggedIn() {
     let user = sessionStorage.getItem('username');
-    console.log(!(user === null));
+    // console.log(!(user === null));
     return !(user === null);
   }
 

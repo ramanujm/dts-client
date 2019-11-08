@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule , ReactiveFormsModule } from '@angular/forms';
+import { AgGridModule } from 'ag-grid-angular';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -10,6 +11,7 @@ import { CreateEmployeeComponent } from './components/create-employee/create-emp
 import { EmployeeDetailsComponent } from './components/employee-details/employee-details.component';
 import { ListEmployeeComponent } from './components/list-employee/list-employee.component';
 import { EmployeeService } from './service/employee.service';
+import { AuthenticationService } from 'src/app/service/authentication.service';
 import { UpdateEmployeeComponent } from './components/update-employee/update-employee.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { LoginComponent } from './components/login/login.component';
@@ -30,9 +32,10 @@ import { HeaderComponent } from './components/header/header.component';
     AppRoutingModule,
     HttpClientModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    AgGridModule.withComponents([])
   ],
-  providers: [EmployeeService],
+  providers: [EmployeeService, AuthenticationService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -44,7 +44,7 @@ password: string;
   // }
 
   handleLogin() {
-    console.log(this.employee.userName + '...' + this.employee.password);
+   // console.log(this.employee.userName + '...' + this.employee.password);
     if (this.authService.authenticate(this.employee.userName, this.employee.password )) {
         this.router.navigate(['/employees']);
         this.invalidLogin = false;

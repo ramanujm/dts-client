@@ -15,7 +15,7 @@ export class ListEmployeeComponent implements OnInit {
   constructor(private http: HttpClient, private empService: EmployeeService) { }
 
   ngOnInit() {
-    console.log('reload emp on nginit ...');
+    // console.log('reload emp on nginit ...');
     this.reloadAllEmployees();
   }
 
@@ -25,7 +25,7 @@ export class ListEmployeeComponent implements OnInit {
 
   getAllEmployee() {
     this.empService.getAllEmployees().subscribe((data) => {
-      console.log('getAllEmployees...', data);
+      // console.log('getAllEmployees...', data);
       this.Employee = data;
     });
   }
@@ -34,7 +34,7 @@ export class ListEmployeeComponent implements OnInit {
     if (window.confirm('Are you sure to delete?')) {
         this.empService.deleteEmployee(employee.id).subscribe((data) => {
           this.Employee.splice(index, 1);
-          console.log('removeEmployee...', data);
+          // console.log('removeEmployee...', data);
           this.reloadAllEmployees();
         },
         error => console.log(error));
