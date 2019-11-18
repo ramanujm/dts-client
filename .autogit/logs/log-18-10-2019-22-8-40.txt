@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 18 2019 22:08:40 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
