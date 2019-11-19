@@ -17,6 +17,15 @@ export class MenuComponent implements OnInit {
     this.isLoggedIn = this.loginservice.isUserLoggedIn();
   }
 
+  showEmployees() {
+    this.router.navigate(['/employees']);
+  }
+
+  addEmployee() {
+    // this.router.navigateByUrl('/addEmployee');
+    this.router.navigate(['/addEmployee']);
+  }
+
   handleLogout() {
     console.log('logout clicked...');
     this.loginservice.logOut();

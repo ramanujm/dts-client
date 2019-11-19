@@ -11,12 +11,18 @@ import { Component, OnInit } from '@angular/core';
 export class ListEmployeeComponent implements OnInit {
 
   Employee: any = [];
+  dtOptions: DataTables.Settings = {};
 
   constructor(private http: HttpClient, private empService: EmployeeService) { }
 
   ngOnInit() {
-    // console.log('reload emp on nginit ...');
     this.reloadAllEmployees();
+    this.dtOptions = {
+      pagingType: 'full_numbers',
+      pageLength: 5,
+      processing: true,
+      data: this.Employee
+    };
   }
 
   reloadAllEmployees() {
@@ -25,7 +31,7 @@ export class ListEmployeeComponent implements OnInit {
 
   getAllEmployee() {
     this.empService.getAllEmployees().subscribe((data) => {
-      // console.log('getAllEmployees...', data);
+      console.log('getAllEmployees===========>', data);
       this.Employee = data;
     });
   }
