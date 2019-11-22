@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Nov 21 2019 20:15:50 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/components/list-employee/list-employee.component.html
+
+
+Created files:
+* .autogit/logs/log-21-10-2019-19-45-42.txt
+
+
+Deleted files:
+
+
+Renamed files:
