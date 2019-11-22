@@ -3,7 +3,7 @@
     <!-- No data message -->
     <p *ngIf="Employee.length <= 0" class="no-data text-center alert-warning"><strong>Server error or there is no User added yet!</strong></p>
 
-    <table class="table table-striped table-bordered table-sm row-border hover" datatable [dtOptions]="dtOptions">
+    <data-table class="table table-striped table-bordered table-sm row-border hover" datatable [dtOptions]="dtOptions">
         <thead>
             <tr>
                 <th scope="col" hidden>Employee ID</th>
@@ -31,7 +31,7 @@
                 </td>
             </tr>
         </tbody>
-    </table>
+    </data-table>
 
     <!-- Employee list -->
     <!-- <table class="table table-bordered" *ngIf="Employee.length > 0">
