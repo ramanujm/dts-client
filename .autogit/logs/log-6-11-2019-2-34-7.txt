@@ -1,0 +1,41 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 02:34:07 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/app/app.component.ts
+* www/index.html
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-2-4-6.txt
+* www/3rdpartylicenses.txt
+* www/assets/bg-masthead.jpg
+* www/bg-masthead.c934a8a6d299bfa55c48.jpg
+* www/es2015-polyfills.3f4e8bcd7f6755d78863.js
+* www/favicon.ico
+* www/fontawesome-webfont.674f50d287a8c48dc19b.eot
+* www/fontawesome-webfont.912ec66d7572ff821749.svg
+* www/fontawesome-webfont.af7ae505a9eed503f8b8.woff2
+* www/fontawesome-webfont.b06871f281fee6b241d6.ttf
+* www/fontawesome-webfont.fee66e712a8a08eef580.woff
+* www/main.16fb36eb468010ce538c.js
+* www/polyfills.8bbb231b43165d65d357.js
+* www/runtime.26209474bfa8dc87a77c.js
+* www/scripts.a5a6cca06a4a0a18d8e8.js
+* www/sort_asc.9326ad44ae4bebdedd14.png
+* www/sort_asc_disabled.d7dc10c78f23615d3285.png
+* www/sort_both.9a6486086d09bb38cf66.png
+* www/sort_desc.1fc418e33fd5a6872902.png
+* www/sort_desc_disabled.bda51e15154a18257b4f.png
+* www/styles.0966ce2d3915727dee8b.css
+
+
+Deleted files:
+* www/css/index.css
+* www/img/logo.png
+* www/js/index.js
+
+
+Renamed files:
