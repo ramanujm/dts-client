@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 12:54:37 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app-routing.module.ts
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-12-20-2.txt
+
+
+Deleted files:
+
+
+Renamed files:
