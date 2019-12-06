@@ -1,0 +1,39 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 15:33:43 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .vscode/settings.json
+* platforms/browser/www/index.html
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-13-24-43.txt
+* platforms/browser/www/3rdpartylicenses.txt
+* platforms/browser/www/assets/bg-masthead.jpg
+* platforms/browser/www/bg-masthead.c934a8a6d299bfa55c48.jpg
+* platforms/browser/www/es2015-polyfills.3f4e8bcd7f6755d78863.js
+* platforms/browser/www/fontawesome-webfont.674f50d287a8c48dc19b.eot
+* platforms/browser/www/fontawesome-webfont.912ec66d7572ff821749.svg
+* platforms/browser/www/fontawesome-webfont.af7ae505a9eed503f8b8.woff2
+* platforms/browser/www/fontawesome-webfont.b06871f281fee6b241d6.ttf
+* platforms/browser/www/fontawesome-webfont.fee66e712a8a08eef580.woff
+* platforms/browser/www/main.16fb36eb468010ce538c.js
+* platforms/browser/www/polyfills.8bbb231b43165d65d357.js
+* platforms/browser/www/runtime.26209474bfa8dc87a77c.js
+* platforms/browser/www/scripts.a5a6cca06a4a0a18d8e8.js
+* platforms/browser/www/sort_asc.9326ad44ae4bebdedd14.png
+* platforms/browser/www/sort_asc_disabled.d7dc10c78f23615d3285.png
+* platforms/browser/www/sort_both.9a6486086d09bb38cf66.png
+* platforms/browser/www/sort_desc.1fc418e33fd5a6872902.png
+* platforms/browser/www/sort_desc_disabled.bda51e15154a18257b4f.png
+* platforms/browser/www/styles.0966ce2d3915727dee8b.css
+
+
+Deleted files:
+* platforms/browser/www/css/index.css
+* platforms/browser/www/img/logo.png
+* platforms/browser/www/js/index.js
+
+
+Renamed files:
