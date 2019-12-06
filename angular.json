@@ -13,7 +13,7 @@
                 "build": {
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
-                        "outputPath": "dist/dts-client",
+                        "outputPath": "www",
                         "index": "src/index.html",
                         "main": "src/main.ts",
                         "polyfills": "src/polyfills.ts",
@@ -26,7 +26,7 @@
                             "src/styles.css",
                             "node_modules/datatables.net-dt/css/jquery.dataTables.css",
                             "node_modules/bootstrap/dist/css/bootstrap.min.css",
-                            "node_modules/font-awesome/css/font-awesome.css"
+                            "node_modules/font-awesome/css/font-awesome.min.css"
                         ],
                         "scripts": [
                             "node_modules/jquery/dist/jquery.min.js",
