@@ -20,7 +20,7 @@ isEditable = true;
   ngOnInit() {
     this.submitted = false;
     this.employee = new Employee();
-    this.id = this.route.snapshot.params['id'];
+    this.id = this.route.snapshot.params.id;
     console.log('ID Value...', this.id);
     this.empService.getEmployee(this.id).subscribe(data => {
       console.log('Data ...', data);

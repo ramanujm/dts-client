@@ -1,0 +1,74 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 17:14:38 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* config.xml
+* package-lock.json
+* package.json
+* platforms/android/android.json
+* platforms/android/app/src/main/AndroidManifest.xml
+* platforms/android/app/src/main/assets/www/cordova_plugins.js
+* platforms/android/app/src/main/assets/www/index.html
+* platforms/android/app/src/main/res/values/strings.xml
+* platforms/android/app/src/main/res/xml/config.xml
+* platforms/android/platform_www/cordova_plugins.js
+* platforms/browser/browser.json
+* platforms/browser/config.xml
+* platforms/browser/platform_www/cordova_plugins.js
+* platforms/browser/www/config.xml
+* platforms/browser/www/cordova_plugins.js
+* platforms/browser/www/index.html
+* platforms/browser/www/manifest.json
+* plugins/android.json
+* plugins/browser.json
+* plugins/cordova-plugin-whitelist/package.json
+* plugins/fetch.json
+* src/app/app.component.ts
+* www/index.html
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-15-33-43.txt
+* platforms/android/app/src/main/assets/www/css/index.css
+* platforms/android/app/src/main/assets/www/img/logo.png
+* platforms/android/app/src/main/assets/www/js/index.js
+* platforms/android/app/src/main/assets/www/plugins/cordova-plugin-device/www/device.js
+* platforms/android/app/src/main/java/com/example/hello/MainActivity.java
+* platforms/android/app/src/main/java/org/apache/cordova/device/Device.java
+* platforms/android/platform_www/plugins/cordova-plugin-device/www/device.js
+* platforms/browser/platform_www/plugins/cordova-plugin-device/src/browser/DeviceProxy.js
+* platforms/browser/platform_www/plugins/cordova-plugin-device/www/device.js
+* platforms/browser/www/css/index.css
+* platforms/browser/www/img/logo.png
+* platforms/browser/www/js/index.js
+* platforms/browser/www/plugins/cordova-plugin-device/src/browser/DeviceProxy.js
+* platforms/browser/www/plugins/cordova-plugin-device/www/device.js
+* plugins/cordova-plugin-device/CONTRIBUTING.md
+* plugins/cordova-plugin-device/LICENSE
+* plugins/cordova-plugin-device/NOTICE
+* plugins/cordova-plugin-device/README.md
+* plugins/cordova-plugin-device/RELEASENOTES.md
+* plugins/cordova-plugin-device/package.json
+* plugins/cordova-plugin-device/plugin.xml
+* plugins/cordova-plugin-device/src/android/Device.java
+* plugins/cordova-plugin-device/src/browser/DeviceProxy.js
+* plugins/cordova-plugin-device/src/ios/CDVDevice.h
+* plugins/cordova-plugin-device/src/ios/CDVDevice.m
+* plugins/cordova-plugin-device/src/osx/CDVDevice.h
+* plugins/cordova-plugin-device/src/osx/CDVDevice.m
+* plugins/cordova-plugin-device/src/windows/DeviceProxy.js
+* plugins/cordova-plugin-device/tests/package.json
+* plugins/cordova-plugin-device/tests/plugin.xml
+* plugins/cordova-plugin-device/tests/tests.js
+* plugins/cordova-plugin-device/types/index.d.ts
+* plugins/cordova-plugin-device/www/device.js
+* www/css/index.css
+* www/img/logo.png
+* www/js/index.js
+
+
+Deleted files:
+
+
+Renamed files:
