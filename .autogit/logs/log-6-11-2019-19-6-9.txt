@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 19:06:09 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/components/home/home.component.html
+* src/app/components/home/home.component.ts
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-18-16-56.txt
+
+
+Deleted files:
+
+
+Renamed files:
