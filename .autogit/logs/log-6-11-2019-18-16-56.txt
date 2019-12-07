@@ -1,0 +1,87 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 06 2019 18:16:56 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* platforms/android/app/src/main/assets/www/index.html
+* www/index.html
+
+
+Created files:
+* .autogit/logs/log-6-11-2019-17-44-40.txt
+* platforms/android/app/src/main/assets/www/es2015-polyfills.js
+* platforms/android/app/src/main/assets/www/es2015-polyfills.js.map
+* platforms/android/app/src/main/assets/www/main.js
+* platforms/android/app/src/main/assets/www/main.js.map
+* platforms/android/app/src/main/assets/www/polyfills.js
+* platforms/android/app/src/main/assets/www/polyfills.js.map
+* platforms/android/app/src/main/assets/www/runtime.js
+* platforms/android/app/src/main/assets/www/runtime.js.map
+* platforms/android/app/src/main/assets/www/scripts.js
+* platforms/android/app/src/main/assets/www/scripts.js.map
+* platforms/android/app/src/main/assets/www/styles.js
+* platforms/android/app/src/main/assets/www/styles.js.map
+* platforms/android/app/src/main/assets/www/vendor.js
+* platforms/android/app/src/main/assets/www/vendor.js.map
+* www/es2015-polyfills.js
+* www/es2015-polyfills.js.map
+* www/main.js
+* www/main.js.map
+* www/polyfills.js
+* www/polyfills.js.map
+* www/runtime.js
+* www/runtime.js.map
+* www/scripts.js
+* www/scripts.js.map
+* www/styles.js
+* www/styles.js.map
+* www/vendor.js
+* www/vendor.js.map
+
+
+Deleted files:
+* platforms/android/app/src/main/assets/www/3rdpartylicenses.txt
+* platforms/android/app/src/main/assets/www/css/index.css
+* platforms/android/app/src/main/assets/www/es2015-polyfills.3f4e8bcd7f6755d78863.js
+* platforms/android/app/src/main/assets/www/img/logo.png
+* platforms/android/app/src/main/assets/www/js/index.js
+* platforms/android/app/src/main/assets/www/main.16fb36eb468010ce538c.js
+* platforms/android/app/src/main/assets/www/polyfills.8bbb231b43165d65d357.js
+* platforms/android/app/src/main/assets/www/runtime.26209474bfa8dc87a77c.js
+* platforms/android/app/src/main/assets/www/scripts.a5a6cca06a4a0a18d8e8.js
+* platforms/android/app/src/main/assets/www/styles.0966ce2d3915727dee8b.css
+* www/3rdpartylicenses.txt
+* www/css/index.css
+* www/es2015-polyfills.3f4e8bcd7f6755d78863.js
+* www/img/logo.png
+* www/js/index.js
+* www/main.16fb36eb468010ce538c.js
+* www/polyfills.8bbb231b43165d65d357.js
+* www/runtime.26209474bfa8dc87a77c.js
+* www/scripts.a5a6cca06a4a0a18d8e8.js
+* www/styles.0966ce2d3915727dee8b.css
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
